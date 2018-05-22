@@ -1,0 +1,47 @@
+[
+  {
+    "caption": "MOCP: Play",
+    "command": "mocp",
+    "args": {"action": "--play"}
+  },
+  {
+    "caption": "MOCP: Pause",
+    "command": "mocp",
+    "args": {"action": "--pause"}
+  },
+  {
+    "caption": "MOCP: Resume",
+    "command": "mocp",
+    "args": {"action": "--unpause"}
+  },
+  {
+    "caption": "MOCP: Next",
+    "command": "mocp",
+    "args": {"action": "--next"}
+  },
+  {
+    "caption": "MOCP: Previous",
+    "command": "mocp",
+    "args": {"action": "--previous"}
+  },
+  {
+    "caption": "MOCP: Shuffle",
+    "command": "mocp",
+    "args": {"action": "--toggle shuffle"}
+  },
+  {
+    "caption": "MOCP: Autonext",
+    "command": "mocp",
+    "args": {"action": "--toggle autonext"}
+  },
+  {
+    "caption": "MOCP: Repeat",
+    "command": "mocp",
+    "args": {"action": "--toggle repeat"}
+  },
+  {
+    "caption": "MOCP: Turn off",
+    "command": "mocp",
+    "args": {"action": "--exit"}
+  }
+]
